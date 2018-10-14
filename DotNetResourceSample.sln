@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.NET 리소스 관리.pptx = .NET 리소스 관리.pptx
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F8D6EDB4-BD6E-4852-8C70-EBBFF553EA95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{F49664E9-4E70-4386-B473-E608022AEDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F49664E9-4E70-4386-B473-E608022AEDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F49664E9-4E70-4386-B473-E608022AEDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D6EDB4-BD6E-4852-8C70-EBBFF553EA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D6EDB4-BD6E-4852-8C70-EBBFF553EA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D6EDB4-BD6E-4852-8C70-EBBFF553EA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D6EDB4-BD6E-4852-8C70-EBBFF553EA95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
