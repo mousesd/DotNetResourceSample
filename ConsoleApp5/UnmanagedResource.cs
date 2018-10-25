@@ -23,7 +23,7 @@ namespace ConsoleApp5
             return Marshal.PtrToStringAnsi(handle);
         }
 
-        public void Close()
+        public void Clear()
         {
             Marshal.FreeHGlobal(handle);
         }
